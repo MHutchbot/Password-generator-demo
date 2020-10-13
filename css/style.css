@@ -1,0 +1,19 @@
+body{
+    background-color:whitesmoke;
+}
+
+/* hr line css */
+.line{
+    color: #b4b4b4;
+    border-width: 3px;
+}
+/* Button */
+.btn
+{
+    margin-top: 15px;
+}
+
+/* Text Area */
+#textarea{
+    border:2px dashed;
+}
